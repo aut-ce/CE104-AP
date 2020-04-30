@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=class\ Book
+comment0.text=\nA\ class\ that\ maintains\ information\ on\ a\ book.\nThis\ might\ form\ part\ of\ a\ larger\ application\ such\nas\ a\ library\ system,\ for\ instance.\n\n@author\ (Insert\ your\ name\ here.)\n@version\ (Insert\ today's\ date\ here.)\n\n
+comment1.params=bookAuthor\ bookTitle
+comment1.target=Book(String,String)
+comment1.text=\nSet\ the\ author\ and\ title\ fields\ when\ this\ object\nis\ constructed.\n\n
+comment2.target=author
+comment3.target=title
+numComments=4

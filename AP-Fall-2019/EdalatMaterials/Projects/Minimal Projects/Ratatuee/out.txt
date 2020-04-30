@@ -1,0 +1,50 @@
+88288010000 HotDog European 7000
+88288010001 Gheime Iranian 12000
+88288010002 Pizza European 10000
+Tahdig Parkvey 22038055
+Naayeb SaadatAbad 22078463
+PerPerook SaadatAbad 22093205
+PerPerook Pasdaran 22599553
+PerPerook Parkvey 26203727
+Bistro Vanak 88054638
+Boof Gisha 88242466
+Shila Gisha 88255702
+Papyon Gisha 88281466
+PerPerook Gisha 88288010
+Boof Gisha 88242466
+Shila Gisha 88255702
+Papyon Gisha 88281466
+PerPerook Gisha 88288010
+88242466008 Falafel Eastern 8000 Boof Gisha
+88242466034 Hamburger European 6000 Boof Gisha
+88255702011 sandwich European 6500 Shila Gisha
+88255702020 Pizza European 12000 Shila Gisha
+88281466009 Falafel Eastern 8000 Papyon Gisha
+88288010000 HotDog European 7000 PerPerook Gisha
+88288010001 Gheime Iranian 12000 PerPerook Gisha
+88288010002 Pizza European 10000 PerPerook Gisha
+Pesare Shoja 91412345678 45500
+Pesare Shoja 91412345678 63000
+Pesare Shoja 91412345678
+88288010002 Pizza European 10000 3 30000 without pepper
+22078463021 Ghorme Iranian 14000 2 28000
+delivery cost 5000
+total cost 63000
+Pesare Shoja 91412345678
+88255702011 sandwich European 6500 7 45500
+delivery cost 0
+total cost 45500
+#
+88288010002 Pizza European 10000 3 30000 without pepper
+22078463021 Ghorme Iranian 14000 2 28000
+delivery cost 5000
+total cost 63000
+#
+total purchase 108500
+22038055000 Kabab Iranian 10000 Tahdig Parkvey
+22038055001 Koko Iranian 8000 Tahdig Parkvey
+22078463013 Gheime Iranian 15000 Naayeb SaadatAbad
+22078463021 Ghorme Iranian 14000 Naayeb SaadatAbad
+22093205001 Gheime Iranian 13000 PerPerook SaadatAbad
+26203727001 Gheime Iranian 12000 PerPerook Parkvey
+88288010001 Gheime Iranian 12000 PerPerook Gisha

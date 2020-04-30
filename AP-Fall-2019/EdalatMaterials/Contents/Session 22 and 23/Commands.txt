@@ -1,0 +1,11 @@
+mvn archetype:generate -DartifactId=my-app -DgroupId=ir.domain.app -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
+
+cd my-app
+
+mvn compile
+
+mvn test
+
+mvn package
+
+java -cp target/my-app-1.0-SNAPSHOT.jar ir.domain.app.App
