@@ -1,0 +1,24 @@
+#BlueJ package file
+package.editor.height=279
+package.editor.width=411
+package.editor.x=213
+package.editor.y=159
+package.numDependencies=0
+package.numTargets=1
+package.showExtends=true
+package.showUses=true
+readme.editor.height=512
+readme.editor.width=618
+readme.editor.x=0
+readme.editor.y=0
+target1.editor.height=735
+target1.editor.width=648
+target1.editor.x=50
+target1.editor.y=60
+target1.height=50
+target1.name=Notebook
+target1.showInterface=false
+target1.type=ClassTarget
+target1.width=80
+target1.x=80
+target1.y=60
