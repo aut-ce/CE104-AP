@@ -1,0 +1,3 @@
+https://www.javamex.com/tutorials/threads/invokelater.shtml
+https://alvinalexander.com/java/java-swingutilities-invoke-later-example-edt
+https://javarevisited.blogspot.com/2011/09/invokeandwait-invokelater-swing-example.html
