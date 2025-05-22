@@ -4,3 +4,6 @@
 [submodule "AP-Spring-2024"]
 	path = AP-Spring-2024
 	url = git@github.com:aut-ce/CE104-AP-Spring-2024.git
+[submodule "AP-Spring-2025"]
+	path = AP-Spring-2025
+	url = git@github.com:aut-ce/CE104-AP-Spring-2025.git
